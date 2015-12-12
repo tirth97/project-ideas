@@ -3,9 +3,9 @@
 ## Operating system
 
 
-    Build a virtual machine monitor that can run multiple guests (for example, multiple instances of JOS), using x86 VM support.
-    Do something useful with the x86 Trusted Execution Technology. For example, run applications without having to trust the kernel. This resource may not render correctly in a screen reader.Here (PDF) is a recent paper on this topic.
-    Fix xv6 logging to support concurrent transactions, and generally have higher performance, perhaps taking ideas from Linux EXT3.
+    + Build a virtual machine monitor that can run multiple guests (for example, multiple instances of JOS), using x86 VM support.
+    + Do something useful with the x86 Trusted Execution Technology. For example, run applications without having to trust the kernel. This resource may not render correctly in a screen reader.Here (PDF) is a recent paper on this topic.
+    + Fix xv6 logging to support concurrent transactions, and generally have higher performance, perhaps taking ideas from Linux EXT3.
     Use file system ideas from This resource may not render correctly in a screen reader.Soft updates (PDF), WAFL, ZFS, or another advanced file system.
     Add snapshots to a file system, so that a user can look at the file system as it appeared at various points in the past. You'll probably want to use some kind of copy-on-write for disk storage to keep space consumption down.
     Implement This resource may not render correctly in a screen reader.capabilities (PDF) to provide fine-grained control over what privileges processes have.
