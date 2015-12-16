@@ -27,6 +27,7 @@
     <li>Implement <img src="/images/inacessible.gif" alt="This resource may not render correctly in a screen reader."><a href="http://www.usenix.org/system/files/conference/osdi12/osdi12-final-117.pdf">dune (PDF)</a> to export privileged hardware instructions to user-space applications in JOS or xv6.</li>
     <li>The linux kernel uses read copy update to be able to perform read operations without holding locks. Explore RCU by implementing it in xv6 and use it to support a name cache with lock-free reads</li>
     <li>Intel recently announced for its upcoming processors. Implement support for Intel's Transactional Synchronization Extensions in the QEMU emulator. A follow-on project would be to explore the use of Intel TSX primitives in writing concurrent software, such as extending a small multi-core operating system (based on 6.828's xv6) to use transactional memory.</li>
+    <li>Development of Syntax analyzer using Java.</li>
 </ul>
 
 
