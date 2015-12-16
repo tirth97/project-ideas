@@ -45,6 +45,7 @@
     <li>Paint application using AWT</li>
     <li>Stock Control System</li>
     <li>Bulk File Distributor</li>
+    <li>Management Systems</li>
 </ul>
 
 
