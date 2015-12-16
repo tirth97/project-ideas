@@ -30,5 +30,21 @@
 </ul>
 
 
+## Java Projects
+
+
+<ul>
+    <li>Creating Image Plugin using from existing MATLAB/Scilab code.</li>
+    <li>Java Editor</li>
+    <li>Ultra Mixer in Java</li>
+    <li>Song prediction using Java</li>
+    <li>Smiley prediction using Java</li>
+    <li>Java Snake Game</li>
+    <li>Development of Syntax analyzer using Java</li>
+    <li>Chat Messenger</li>
+    <li>Paint application using AWT</li>
+    <li>Stock Control System</li>
+    <li>Bulk File Distributor</li>
+</ul>
 
 <sub>Many of the ideas are taken from course projects of different universities such MIT,Nirma etc.</etc>
